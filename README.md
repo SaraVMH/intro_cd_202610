@@ -12,3 +12,6 @@ Hoy juega colombia!!!!!!
 
 Imagen simple
 ![Texto alternativo](carrito01.jpg)
+
+Imagen desde URL externa
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
